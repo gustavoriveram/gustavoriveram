@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Gustavo, web developer. I'm currently working with Angular for a software factory startup.
+- 👋 Hi, I’m Gustavo, web developer. I'm currently working with Angular 2+ and RxJS for a software factory startup.
 
 <!---
 gustavoriveram/gustavoriveram is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
