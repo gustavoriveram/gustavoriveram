@@ -1,4 +1,5 @@
-- 👋 Hi, I’m Gustavo, web developer. I'm currently working in a company as Frontend developer, mainly with Angular 2+. I'm Also working in personal projects with different technologies.
+- 👋 Hi! Welcome!
+- My name is Gustavo and I am a web developer.
 
 <!---
 gustavoriveram/gustavoriveram is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
