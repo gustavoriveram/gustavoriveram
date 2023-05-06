@@ -1,5 +1,4 @@
-- 👋 Hi! Welcome!
-- My name is Gustavo and I am a web developer.
+👋 Hi! Welcome! My name is Gustavo and I am a web developer.
 
 <!---
 gustavoriveram/gustavoriveram is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
